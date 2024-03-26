@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65a9ca74-ba4a-4e09-822a-3f75ffdb28d4" name="Changes" comment="create class HelloJava">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/experis/java/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/experis/hellojava/HelloJava.java" beforeDir="false" />
+    <list default="true" id="65a9ca74-ba4a-4e09-822a-3f75ffdb28d4" name="Changes" comment="create main + printIn">
+      <change beforePath="$PROJECT_DIR$/src/org/experis/java/HelloJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/experis/java/HelloJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Hello.executor": "Run",
+    "Application.HelloJava.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -100,11 +98,20 @@
       <option name="project" value="LOCAL" />
       <updated>1711459705097</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="create main + printIn">
+      <option name="closed" value="true" />
+      <created>1711461168546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711461168546</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create class HelloJava" />
-    <option name="LAST_COMMIT_MESSAGE" value="create class HelloJava" />
+    <MESSAGE value="create main + printIn" />
+    <option name="LAST_COMMIT_MESSAGE" value="create main + printIn" />
   </component>
 </project>
